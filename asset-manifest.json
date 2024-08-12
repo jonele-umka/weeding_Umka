@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/weeding_Umka/static/css/main.7b9579d3.css",
-    "main.js": "/weeding_Umka/static/js/main.bf3261a7.js",
+    "main.css": "/weeding_Umka/static/css/main.e1470d29.css",
+    "main.js": "/weeding_Umka/static/js/main.017efd32.js",
     "static/js/453.e2324bdd.chunk.js": "/weeding_Umka/static/js/453.e2324bdd.chunk.js",
     "static/media/studio_status_-200.jpg": "/weeding_Umka/static/media/studio_status_-200.fd859860dd5be1ddb691.jpg",
     "static/media/Group 20431.png": "/weeding_Umka/static/media/Group 20431.e9453f32522283977361.png",
@@ -19,12 +19,12 @@
     "static/media/name1.png": "/weeding_Umka/static/media/name1.a03881d0d38707a09200.png",
     "static/media/name5.png": "/weeding_Umka/static/media/name5.f276d2b0cbd75d3ff37a.png",
     "index.html": "/weeding_Umka/index.html",
-    "main.7b9579d3.css.map": "/weeding_Umka/static/css/main.7b9579d3.css.map",
-    "main.bf3261a7.js.map": "/weeding_Umka/static/js/main.bf3261a7.js.map",
+    "main.e1470d29.css.map": "/weeding_Umka/static/css/main.e1470d29.css.map",
+    "main.017efd32.js.map": "/weeding_Umka/static/js/main.017efd32.js.map",
     "453.e2324bdd.chunk.js.map": "/weeding_Umka/static/js/453.e2324bdd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b9579d3.css",
-    "static/js/main.bf3261a7.js"
+    "static/css/main.e1470d29.css",
+    "static/js/main.017efd32.js"
   ]
 }
