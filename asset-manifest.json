@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/weeding_Umka/static/css/main.ac9b9197.css",
-    "main.js": "/weeding_Umka/static/js/main.574cdc1c.js",
+    "main.css": "/weeding_Umka/static/css/main.3cc69448.css",
+    "main.js": "/weeding_Umka/static/js/main.fd0281de.js",
     "static/js/453.e2324bdd.chunk.js": "/weeding_Umka/static/js/453.e2324bdd.chunk.js",
-    "static/media/studio_status_-200.jpg": "/weeding_Umka/static/media/studio_status_-200.fd859860dd5be1ddb691.jpg",
-    "static/media/Group 20431.png": "/weeding_Umka/static/media/Group 20431.e9453f32522283977361.png",
-    "static/media/studio_status_-249.jpg": "/weeding_Umka/static/media/studio_status_-249.924750fcf03de33ddb65.jpg",
-    "static/media/studio_status_-180 (3).jpg": "/weeding_Umka/static/media/studio_status_-180 (3).eda165f15b2303be5034.jpg",
-    "static/media/studio_status_-235.jpg": "/weeding_Umka/static/media/studio_status_-235.9cd450106d20d6835637.jpg",
     "static/media/studio_status_-167.jpg": "/weeding_Umka/static/media/studio_status_-167.3f9f198c881a9f3de3b0.jpg",
     "static/media/music.mp3": "/weeding_Umka/static/media/music.8f4d942571dfa67400cb.mp3",
     "static/media/Group 20430.png": "/weeding_Umka/static/media/Group 20430.feb1d729fe07cdc0aafa.png",
+    "static/media/studio_status_-200.jpg": "/weeding_Umka/static/media/studio_status_-200.bbaea7e3fd3003d405d3.jpg",
+    "static/media/Group 20431.png": "/weeding_Umka/static/media/Group 20431.7b2734579e5207759117.png",
+    "static/media/studio_status_-180 (3).jpg": "/weeding_Umka/static/media/studio_status_-180 (3).ae30ecea5ec3f26b7026.jpg",
+    "static/media/studio_status_-249.jpg": "/weeding_Umka/static/media/studio_status_-249.92592c9e8cbff9619c00.jpg",
+    "static/media/studio_status_-235.jpg": "/weeding_Umka/static/media/studio_status_-235.6a6eb087e2eaeba60415.jpg",
     "static/media/Flag_of_Kyrgyzstan.svg.png": "/weeding_Umka/static/media/Flag_of_Kyrgyzstan.svg.920dadf6cf9c72ba3401.png",
     "static/media/name6.png": "/weeding_Umka/static/media/name6.1239ceb56d01484a4fa3.png",
     "static/media/studio_status_-42.jpg": "/weeding_Umka/static/media/studio_status_-42.b366cff48dcd63379d50.jpg",
-    "static/media/studio_status_-244.jpg": "/weeding_Umka/static/media/studio_status_-244.c22c211ef3cd51744414.jpg",
     "static/media/FuturaStdBook.otf": "/weeding_Umka/static/media/FuturaStdBook.5f83b0049a36e35d2265.otf",
+    "static/media/studio_status_-244.jpg": "/weeding_Umka/static/media/studio_status_-244.93b4fec2873b14d8b169.jpg",
     "static/media/name3.png": "/weeding_Umka/static/media/name3.1233e3e40c2a931da56c.png",
     "static/media/name2.png": "/weeding_Umka/static/media/name2.2e64a11fde1d69bcdb2a.png",
     "static/media/name1.png": "/weeding_Umka/static/media/name1.a03881d0d38707a09200.png",
     "static/media/name5.png": "/weeding_Umka/static/media/name5.f276d2b0cbd75d3ff37a.png",
     "index.html": "/weeding_Umka/index.html",
-    "main.ac9b9197.css.map": "/weeding_Umka/static/css/main.ac9b9197.css.map",
-    "main.574cdc1c.js.map": "/weeding_Umka/static/js/main.574cdc1c.js.map",
+    "main.3cc69448.css.map": "/weeding_Umka/static/css/main.3cc69448.css.map",
+    "main.fd0281de.js.map": "/weeding_Umka/static/js/main.fd0281de.js.map",
     "453.e2324bdd.chunk.js.map": "/weeding_Umka/static/js/453.e2324bdd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac9b9197.css",
-    "static/js/main.574cdc1c.js"
+    "static/css/main.3cc69448.css",
+    "static/js/main.fd0281de.js"
   ]
 }
